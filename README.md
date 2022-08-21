@@ -2,6 +2,8 @@
 
 I'm a 2nd year UWaterloo SE student who likes anime, cats, reading, and a plethora of random things :)
 
+(also has a small art and aesthetic obsession)
+
 My experience lies in Android Dev, Web Dev, and Mobile Dev :D
 
 # My tech stack!
