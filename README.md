@@ -14,7 +14,6 @@ My experience lies in Android Dev, Web Dev, and Mobile Dev :D
 <strong>Other:</strong> Git, RestAPI <br>
 
 # 📊 My Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexshaoo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adabingw&langs_count_private=true&theme=radical&card_width=445)<br><br>
 
 # Find me here: 
