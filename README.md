@@ -11,9 +11,6 @@ My experience lies in Android Dev, Web Dev, and Mobile Dev :D
 <strong>Databases:</strong> MySQL, PostgreSQL, Firebase <br>
 <strong>Other:</strong> Git, RestAPI <br>
 
-# 🌸 My Github Stats
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adabingw&langs_count_private=true&theme=radical&card_width=445)<br><br>
-
 # 🗺️ Find me here: 
 
 <a href="https://adabingw.github.io/">Website</a> <br>
