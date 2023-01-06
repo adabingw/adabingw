@@ -6,10 +6,10 @@ My experience lies in Android Dev, Web Dev, and Mobile Dev :D
 
 # 🥧 My tech stack!
 
-<strong>Languages:</strong> Java, Kotlin, HTML/CSS/JavaScript, TypeScript, Python, C++/C, SQL, Lua <br>
-<strong>Frameworks:</strong> ReactJS, ElectronJS, ExpressJS, Android Studio, LOVE2D <br>
+<strong>Languages:</strong> Java, Python, Kotlin, HTML/CSS/JavaScript, TypeScript, C++/C, SQL, Lua <br>
+<strong>Frameworks:</strong> ReactJS, ElectronJS, ExpressJS, Flask, Android Studio, LOVE2D <br>
 <strong>Databases:</strong> MySQL, PostgreSQL, Firebase <br>
-<strong>Other:</strong> Git, RestAPI <br>
+<strong>Other:</strong> Git, RestAPI, Tensorflow, OpenCV <br>
 
 # 🗺️ Find me here: 
 
