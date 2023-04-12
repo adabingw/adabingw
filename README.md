@@ -1,4 +1,4 @@
-# Hi there, I'm Ada!
+# Ello, Ada here
 
 I'm a 2nd year UWaterloo SE student who likes anime, cats, reading, art, and a plethora of random things :)
 
