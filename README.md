@@ -2,7 +2,11 @@
 
 I'm a 2nd year UWaterloo SE student who likes anime, cats, reading, art, and a plethora of random things :)
 
-My experience lies in Android Dev, Web Dev, and Mobile Dev :D
+# 🍶 Interesting things about me
+* I've been watching Detective Conan for ten years
+* I'm obsessed with oil paint 
+* Two of my favourite books are The Kingdoms by Natasha Pulley and Journey under the Midnight Sun by Keigo Higashino
+* I'm currently watching The Last Kingdom and Mob Psycho 100
 
 # 🥧 My tech stack!
 
