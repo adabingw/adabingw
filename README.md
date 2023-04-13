@@ -1,6 +1,6 @@
 <h3> Ello, Ada here</h3>
 
-<img style="width:100vw" src=https://i.kym-cdn.com/photos/images/original/000/889/970/2c5.gif />
+<img src="https://i.kym-cdn.com/photos/images/original/000/889/970/2c5.gif" />
 
 I'm a 2nd year UWaterloo SE student who likes anime, art, reading, history, and a plethora of other random things :D
 
