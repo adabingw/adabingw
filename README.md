@@ -1,5 +1,7 @@
 # Ello, Ada here
 
+<img src="https://animesher.com/orig/0/84/846/8461/animesher.com_nichijou-gif-hakase-846144.gif" />
+
 I'm a 2nd year UWaterloo SE student who likes anime, art, reading, history, and a plethora of other random things :D
 
 I'm currently exploring the world of AI and learning about all things data. 
