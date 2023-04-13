@@ -1,6 +1,6 @@
 # Ello, Ada here
 
-![sleepy...](https://animesher.com/orig/0/84/846/8461/animesher.com_nichijou-gif-hakase-846144.gif)
+![sleepy...](https://i.kym-cdn.com/photos/images/original/000/889/970/2c5.gif)
 
 I'm a 2nd year UWaterloo SE student who likes anime, art, reading, history, and a plethora of other random things :D
 
