@@ -1,8 +1,6 @@
 <h3> Ello, Ada here</h3>
 
 <img align='right' width='350px' src='https://images2.alphacoders.com/811/811353.png'>
-[//]: <img src="https://images2.alphacoders.com/811/811353.png" />
-
 I'm a 2nd year UWaterloo SE student who likes anime, art, reading, history, and a plethora of other random things :D
 
 Previous interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a>.
