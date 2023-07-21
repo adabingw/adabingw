@@ -1,4 +1,4 @@
-<img align='right' width='300px' src='https://i.imgur.com/hFasB6C.png'>
+<img align='right' width='350px' src='https://i.imgur.com/hFasB6C.png'>
 
 <h3> Ello, Ada here</h3>
 
