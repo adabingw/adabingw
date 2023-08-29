@@ -4,6 +4,7 @@
 <ul>
 <li>I'm a 2nd year UWaterloo SE student who likes anime, art, reading, history, and a plethora of other random things :D</li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
+<li>Obsessed with character-driven books. Think: The Lies of Locke Lamora </li>
 <li>Previous interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a>.</li>
 <li>I'm currently exploring the world of AI and learning about all things data. </li>
 </ul>
