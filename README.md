@@ -6,7 +6,7 @@
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora </li>
 <li>Previous interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a>.</li>
-<li>I'm currently exploring the world of AI and learning about all things data. </li>
+<li>I'm currently exploring the world of AI and learning about all things data and AWS related. </li>
 </ul>
 You can check out some projects I've worked on relating to AI and fullstack below :)
 
