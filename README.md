@@ -5,7 +5,7 @@
 <li>I'm a 2nd year UWaterloo SE student who likes anime, art, reading, and history :D</li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora </li>
-<li>Previous interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a>, right now I'm working as a Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a>.</li>
+<li>Previous interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a>, right now I'm interning as a Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a>.</li>
 <li>I'm currently exploring the world of AI and learning about all things data and AWS related. </li>
 </ul>
 You can check out some projects I've worked on relating to AI and fullstack below :)
