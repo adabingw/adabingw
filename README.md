@@ -11,5 +11,5 @@
 You can check out some projects I've worked on relating to AI and fullstack below :)
 
 <h3> 🍶 Find me here</h3>
-<a href="https://adabingw.github.io/">The website</a> <br /> (not up to date :( )
+<a href="https://adabingw.github.io/">The website</a> (not up to date !!) <br />
 <a href="https://www.linkedin.com/in/adabingw/">The Linkedin</a>
