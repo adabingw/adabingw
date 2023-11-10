@@ -3,7 +3,7 @@
 <h3> Ello, Ada here</h3>
 <ul>
 <li>I'm a 3rd year UWaterloo SE student who loves anime, art, reading, and history :D</li>
-<li>Tinkering with Adafruit circuit boards and building IoT products with gas sensors.</li>
+<li>Currently busy tinkering with Adafruit circuit boards and building scalable IoT products with gas sensors.</li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
 <li>Previous interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a>, right now I'm interning as a Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a>.</li>
