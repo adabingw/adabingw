@@ -13,5 +13,5 @@ You can check out some projects I've worked on relating to AI and fullstack belo
 
 <h3> 🍶 Find me here</h3>
 <a href="https://adabingw.github.io/">The website</a><br />
-<a href="mailto:abwang@uwaterloo.ca">The email</a>
+<a href="mailto:abwang@uwaterloo.ca">The email</a><br />
 <a href="https://www.linkedin.com/in/adabingw/">The Linkedin</a>
