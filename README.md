@@ -1,9 +1,10 @@
 [//]: # (<img align='right' width='350px' src='https://i.imgur.com/hFasB6C.png'>)
+<img align='right' width='350px' src='https://i.imgur.com/hFasB6C.png'>
 
 <h3> Ello, Ada here</h3>
 <ul>
 <li>I'm a 3rd year UWaterloo SE student who loves anime, art, reading, and history :D</li>
-<li>Looking for a Summer 2024 Internship!!!!!!!!!!!!!!!!!!!!!!!!!</li>
+<li>Incoming!!!!!!!!! intern at Texada Software for Summer 2024</li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
 <li>Previously interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a> and as a Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a>.</li>
