@@ -9,7 +9,7 @@
 <li>Slowly collecting my pokemon army of fridge magnets.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
 <li>Previously interned as a Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a> and as a Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a>.</li>
-<li>I'm currently exploring the world of AI and learning about all things data and AWS related. </li>
+<li>I'm currently learning about all things data and AWS related. </li>
 </ul>
 You can check out some projects I've worked on below :)
 
