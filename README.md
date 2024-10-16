@@ -4,7 +4,8 @@
 <h3> Ello, Ada here</h3>
 <ul>
 <li>I'm a 3rd year UWaterloo SE student who loves anime, art, reading, and history :D</li>
-<li>Currently interning at <a href="https://texadasoftware.com/">Texada Software</a> as a Core Services Developer doing fun AWS and API stuff!</li>
+<li>IN SEARCH OF JANUARY AND MAY SOFTWARE INTERNSHIPS!!!</li>
+<li>Last internship at <a href="https://texadasoftware.com/">Texada Software</a> as a Core Services Developer doing fun AWS and API stuff!</li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Slowly collecting my pokemon army of fridge magnets.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
