@@ -4,7 +4,8 @@
 <h3> Ello, Ada here</h3>
 <ul>
 <li>I'm a 3rd year UWaterloo SE student who loves anime, art, reading, and history :D</li>
-<li>INCOMING!!! Software Engineering Intern at <a href="https://www.kortex.co/">Kortex</a></li>
+<li>LOOKING FOR SUMMER 2025 INTERNSHIPS!!</li>
+<li>Currently: Software Engineering Intern at <a href="https://www.kortex.co/">Kortex</a></li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Slowly collecting my pokemon army of fridge magnets.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
