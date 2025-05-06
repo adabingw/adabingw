@@ -10,9 +10,11 @@
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
 <li>Previously interned as:<br/>
   <code>Software Engineer at <a href="https://www.kortex.co/">Kortex</a></code><br />
-  Core Services Developer at at <a href="https://texadasoftware.com/">Texada Software</a><br />
-  Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a><br />
-  Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a>.</li>
+  <code>Core Services Developer at at <a href="https://texadasoftware.com/">Texada Software</a></code><br />
+  <code>Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a></code><br />
+  <code>Fullstack Developer at <a href="https://www.mcafee.com/en-ca/index.html">McAfee</a></code><br />
+  <code>Software Engineer at <a href="https://makesens.ca/">Makesens</a></code><br />
+</li>
 <li>I'm currently learning about all things data and AWS related. </li>
 </ul>
 You can check out some projects I've worked on below :)
