@@ -4,11 +4,11 @@
 <h3> Ello, Ada here</h3>
 <ul>
 <li>I'm a 4th year UWaterloo SE student who loves anime, art, reading, and history :D</li>
-<li>Currently: Software Engineering Intern (Data infra team) at <a href="https://www.statsig.com/">Statsig</a></li>
 <li>Waiting for Vinland Saga's manga to conclude.</li>
 <li>Slowly collecting my pokemon army of fridge magnets.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
 <li>Previously interned as:<br/>
+  <code>Data Infrastructure intern at <a href="https://www.statsig.com/">Statsig</a></code>
   <code>Software Engineer at <a href="https://www.kortex.co/">Kortex</a></code><br />
   <code>Core Services Developer at at <a href="https://texadasoftware.com/">Texada Software</a></code><br />
   <code>Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a></code><br />
