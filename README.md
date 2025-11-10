@@ -8,7 +8,7 @@
 <li>Slowly collecting my pokemon army of fridge magnets.</li>
 <li>Obsessed with character-driven books. Think: The Lies of Locke Lamora.</li>
 <li>Previously interned as:<br/>
-  <code>Data Infrastructure intern at <a href="https://www.statsig.com/">Statsig</a></code> <br />
+  <code>Data Infrastructure Engineer at <a href="https://www.statsig.com/">Statsig</a></code> <br />
   <code>Software Engineer at <a href="https://www.kortex.co/">Kortex</a></code><br />
   <code>Core Services Developer at at <a href="https://texadasoftware.com/">Texada Software</a></code><br />
   <code>Software Engineer at <a href="https://snappeadesign.com/">SnapPea</a></code><br />
